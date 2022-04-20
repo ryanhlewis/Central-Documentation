@@ -3,7 +3,7 @@
 
 ### Declaration
 
-public virtual int **Next**(int **minInclusive**, int **maxExclusive**);
+public virtual int **Next**(innnnnnt **minInclusive**, int **maxExclusive**);
 
 ### Description
 
