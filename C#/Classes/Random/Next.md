@@ -13,7 +13,7 @@ If ```minInclusive``` is not provided, then it returns  ```[0..maxExclusive]```
 If both variables are not provided, then it returns ```[0..maxInt32Value]```
 
 
-There are ```float```, ```double```, and ```long``` versions of this function that operates slightly differently, especially regarding the range maximum.
+There are ```float```, ```double```, and ```long``` versions of this function that operate slightly differently, especially regarding the range maximum.
 See their docs in [Random.NextFloat](), [Random.NextDouble](), [Random.NextLong]().
 
 ```C#
