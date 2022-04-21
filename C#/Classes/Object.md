@@ -1,2 +1,1 @@
-This is a **sample** Markdown class for Object Class in C#. Edited. Hi
-
+This is a **sample** Markdown class for Object Class in C#. Edited. Again.
