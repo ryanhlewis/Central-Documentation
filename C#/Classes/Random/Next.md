@@ -1,6 +1,4 @@
-# Random.Next
-
-# Hey
+# Random.Next test
 
 ### Declaration
 
