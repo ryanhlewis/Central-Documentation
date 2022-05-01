@@ -1,1 +1,1 @@
-This is a **sample** Markdown class for Object Class in Java.
+This is a **sample** Markdown class for Object Class in Java. It will be edited.
