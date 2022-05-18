@@ -12,8 +12,6 @@ Returns a new Object() instance, the top of the hierarchy of classes in C#. Ever
 future - more description 
 
 
-HI
-
 
 ```C#
 
