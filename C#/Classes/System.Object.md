@@ -23,14 +23,7 @@ using System;
 public class ExampleClass
 {
 
-    // Generates a random integer ranging from 1 (inclusive) to 10 (exclusive)
-    static void Main()
-    {
-        Random rnd = new Random();
 
-        int randomVal = rnd.Next(1,10);
-        Console.WriteLine(randomVal);
-    }
 }
 
 ```
